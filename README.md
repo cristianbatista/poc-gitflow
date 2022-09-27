@@ -1,3 +1,3 @@
 # poc-gitflow
 
-- seguros
+- seguros.
